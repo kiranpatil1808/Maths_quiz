@@ -8,11 +8,11 @@ This project provides a GUI-based quiz game where users can practice solving mat
 
 ## Features  
 
-- ✅ User-friendly Graphical Interface (Tkinter).  
-- ✅ Randomly generated maths questions (Addition, Subtraction, Multiplication, Division).  
-- ✅ Score tracking system.  
-- ✅ Restart option to play again.  
-- ✅ Beginner-friendly code, easy to modify and extend.  
+-  User-friendly Graphical Interface (Tkinter).  
+-  Randomly generated maths questions (Addition, Subtraction, Multiplication, Division).  
+-  Score tracking system.  
+-  Restart option to play again.  
+-  Beginner-friendly code, easy to modify and extend.  
 
 ---
 
@@ -55,10 +55,10 @@ python maths_quiz.py
 
 ##  Future Enhancements  
 
-- 🔹 Add difficulty levels (Easy, Medium, Hard).  
-- 🔹 Include leaderboard using SQLite database.  
-- 🔹 Add different quiz modes (timed quiz, endless practice, etc.).  
-- 🔹 Improve UI with themes, sounds, and animations.  
+-  Add difficulty levels (Easy, Medium, Hard).  
+-  Include leaderboard using SQLite database.  
+-  Add different quiz modes (timed quiz, endless practice, etc.).  
+-  Improve UI with themes, sounds, and animations.  
 
 ---
 
@@ -72,4 +72,5 @@ Contributions are welcome!
 
 ---
 
-
+## Author
+Kiran Patil
