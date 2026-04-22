@@ -40,18 +40,6 @@ python maths_quiz.py
 
 ---
 
-##  Project Structure  
-
-```
-maths-quiz/
-│
-├── maths_quiz.py       # Main application file
-├── Screenshot.png      # UI screenshot
-├── README.md           # Documentation
-
-```
-
----
 
 ## How to Play  
 
@@ -84,6 +72,4 @@ Contributions are welcome!
 
 ---
 
-## License  
 
-This project is open-source and available under the MIT License.  
